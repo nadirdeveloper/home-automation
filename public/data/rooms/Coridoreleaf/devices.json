@@ -1,0 +1,25 @@
+{
+  "devices": {
+    "4054421245": {
+      "name": "Lights 1",
+      "switch": false,
+      "icon":"",
+      "controls": null
+
+    },
+    "4054421145": {
+      "name": "Lights 2",
+      "switch": false,
+      "icon":"",
+      "controls": null
+
+    },
+    "2911949132": {
+      "name": "PC",
+      "switch": false,
+      "icon":"",
+      "controls": null
+    }
+
+  }
+}
